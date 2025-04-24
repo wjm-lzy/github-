@@ -22,3 +22,5 @@
 <h6>git config --global --unset http.proxy</h6>
 <h6>git config --global --unset https.proxy</h6>
 <h6>修改分支名称 ：git branch -m 旧分支名称  新分支名称</h6>
+<h6>查看本地分支 git branch</h6>
+<h6>git pull origin main --allow-unrelated-histories 拉取远程 main 分支并与本地分支合并</h6>
